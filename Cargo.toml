@@ -1,0 +1,14 @@
+[package]
+name = "xelgamal"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+base64 = "0.22.1"
+clap_derive = "4.5.32"
+clap = { version = "4.5.32", features = ["derive"] }
+num-bigint = { version = "0.4.6", features = ["rand"] }
+num-integer = "0.1.46"
+num-traits = "0.2.19"
+rand = "0.8.5"
+yasna = "0.5.2"
