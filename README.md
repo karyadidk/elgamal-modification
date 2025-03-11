@@ -36,12 +36,12 @@ git clone https://github.com/karyadidk/elgamal-modification.git
 cd elgamal-modification
 ```
 
-## Build the Project
+## Build the Project to Executable Program
 ```sh
 cargo build --release
 ```
 
-## Run the Project
+## Run the Program
 
 ### Generate Key
 ```sh
